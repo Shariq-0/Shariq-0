@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Sharique</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shariq-0&label=Profile%20views&color=0e75b6&style=flat" alt="Shariq-0" /> </p>
 
-- 🌱 I’m currently pursuing **Data Science**
+- 🌱 I’m currently pursuing **Full Stack Data Science**
 
-- 💬 Ask me about **Python, ML, DL, NLP, CV**
+- 💬 Ask me about **Python, ML, DL, RL, Big Data, NLP, CV**
 
 - 📫 How to reach me **srqdv@gmail.com**
 
