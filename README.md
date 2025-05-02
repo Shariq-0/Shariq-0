@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently pursuing **Full Stack Data Science**
 
-- 💬 Ask me about **Python, ML, DL, RL, Big Data, NLP & CV**
+- 💬 Ask me about **Python, ML, DL, RL, Big Data, NLP, CV, GenAI and Agentic AI**
 
 - 📫 How to reach me **srqdv@gmail.com**
 
