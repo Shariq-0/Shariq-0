@@ -3,13 +3,13 @@
 <h1 align="center">Howdy 👋, I'm ShariQ</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shariq-0&label=Profile%20views&color=0e75b6&style=flat" alt="Shariq-0" /> </p>
 
-- 🌱 I’m currently pursuing **Full Stack Data Science**
+- 🌱 I’m a AI Research Scientist & currently pursuing **Full Stack Data Science**
 
 - 💬 Ask me about **Python, ML, DL, RL, Big Data, NLP, CV, GenAI and Agentic AI**
 
 - 📫 How to reach me **srqdv@gmail.com**
 
-- ⚡ Fun fact **I'M SUPERMAN**
+- ⚡ Fun fact **Code is like humor. When you have to explain it, it’s bad.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
