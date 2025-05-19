@@ -5,11 +5,11 @@
 
 - 🌱 I’m a AI Research Scientist & currently pursuing **Full Stack Data Science**
 
-- 💬 Ask me about **Python, ML, DL, RL, Big Data, NLP, CV, GenAI and Agentic AI**
+- 💬 Ask me about: **Python, ML, DL, RL, Big Data, NLP, CV, GenAI and Agentic AI**
 
-- 📫 How to reach me **srqdv@gmail.com**
+- 📫 How to reach me: **srqdv@gmail.com**
 
-- ⚡ Fun fact **Code is like humor. When you have to explain it, it’s bad.**
+- ⚡ Fun fact: **Code is like humor. When you have to explain it, it’s bad.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
