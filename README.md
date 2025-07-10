@@ -1,6 +1,7 @@
-![MasterHead](https://functionup.org/wp-content/uploads/2023/02/DataScientist_FeatureImage-1024x683-1.png)
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+
+
 <h1 align="center">Howdy 👋, I'm ShariQ</h1>
+<img align="right" alt="Coding" width="275" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shariq-0&label=Profile%20views&color=0e75b6&style=flat" alt="Shariq-0" /> </p>
 
 - 🌱 I’m a AI Research Scientist & currently pursuing **Full Stack Data Science**
